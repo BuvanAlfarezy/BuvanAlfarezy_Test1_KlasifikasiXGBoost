@@ -18,3 +18,5 @@ Repository ini berisi tugas, proyek, dan catatan untuk mata kuliah **Analisis Bi
 <img width="1674" height="825" alt="Screenshot 2026-10-25 184341" src="https://github.com/user-attachments/assets/af528932-60cc-4291-9371-ea98caa0fec7" />
 <img width="1753" height="840" alt="Screenshot 2026-10-25 184351" src="https://github.com/user-attachments/assets/7e08f758-d4da-41fd-be0b-3b6bdead9978" />
 <img width="1888" height="885" alt="Screenshot 2026-10-25 184244" src="https://github.com/user-attachments/assets/010f6100-0cf7-4633-bc00-f55d64569ee5" />
+<img width="1788" height="852" alt="Screenshot 2026-10-25 140206" src="https://github.com/user-attachments/assets/d5cd6f17-696a-4567-8807-222922678be6" />
+
